@@ -1,0 +1,6 @@
+PAYROLL_SYSTEM
+
+- Using C#, Html,CSS,JavaScript, Mysql
+- create a payroll_system.db 
+- import payroll_system.db in database 
+- https://localhost:7124/index.html open here for my ui
